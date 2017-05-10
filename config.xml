@@ -3,8 +3,9 @@
     <tizen:application id="FWm1qxf9Vn.SimonSimon" package="FWm1qxf9Vn" required_version="3.0"/>
     <author email="jhon.corevill@gmail.com">Jhonatan Core</author>
     <content src="index.html"/>
+    <description>The always funny Simon game!</description>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="icon.png"/>
+    <icon src="images/icon.png"/>
     <name>SimonSimon</name>
     <tizen:profile name="wearable"/>
 </widget>
